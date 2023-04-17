@@ -1,0 +1,9 @@
+node_modules
+vendor/
+src/
+# appsalon_mvc.sql
+gulpfile.js
+package.json
+package-lock.json
+# .DS_store
+.env
